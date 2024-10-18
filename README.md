@@ -35,7 +35,7 @@ You can edit and add:
 
 ### ✨ Demo
 
-Check out a *live demo* here: (https://github.com/ihimanshsharma/Profile-Readme-Builder)
+Check out a *Live Demo* here: https://github.com/ihimanshsharma/Profile-Readme-Builder
 
 ---
 
